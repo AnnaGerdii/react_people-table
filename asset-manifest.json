@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react_people-table/static/css/main.420d388a.chunk.css",
-    "main.js": "/react_people-table/static/js/main.e4424683.chunk.js",
-    "main.js.map": "/react_people-table/static/js/main.e4424683.chunk.js.map",
+    "main.css": "/react_people-table/static/css/main.9454802b.chunk.css",
+    "main.js": "/react_people-table/static/js/main.d05482a0.chunk.js",
+    "main.js.map": "/react_people-table/static/js/main.d05482a0.chunk.js.map",
     "runtime~main.js": "/react_people-table/static/js/runtime~main.b2b73302.js",
     "runtime~main.js.map": "/react_people-table/static/js/runtime~main.b2b73302.js.map",
-    "static/js/2.620bb3c4.chunk.js": "/react_people-table/static/js/2.620bb3c4.chunk.js",
-    "static/js/2.620bb3c4.chunk.js.map": "/react_people-table/static/js/2.620bb3c4.chunk.js.map",
+    "static/js/2.2fd12327.chunk.js": "/react_people-table/static/js/2.2fd12327.chunk.js",
+    "static/js/2.2fd12327.chunk.js.map": "/react_people-table/static/js/2.2fd12327.chunk.js.map",
     "index.html": "/react_people-table/index.html",
-    "precache-manifest.8c78ff24218ee04dc768538182685d42.js": "/react_people-table/precache-manifest.8c78ff24218ee04dc768538182685d42.js",
+    "precache-manifest.4ce318389ecdf3d3250c74aa796deefa.js": "/react_people-table/precache-manifest.4ce318389ecdf3d3250c74aa796deefa.js",
     "service-worker.js": "/react_people-table/service-worker.js",
-    "static/css/main.420d388a.chunk.css.map": "/react_people-table/static/css/main.420d388a.chunk.css.map"
+    "static/css/main.9454802b.chunk.css.map": "/react_people-table/static/css/main.9454802b.chunk.css.map"
   }
 }
